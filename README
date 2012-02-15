@@ -1,2 +1,3 @@
-Hubot Extendable Brain
+# Hubot Extendable Brain
+
 This is a basic PHP Class Framework that allows you to use Hubot in conjunction with PHP to better query your own server and/or other servers.
