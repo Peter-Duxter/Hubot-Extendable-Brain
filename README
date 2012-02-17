@@ -8,8 +8,9 @@ If you answered "yes" to any of those questions then this library is for you. It
 # Installation
 
 1. Add hubotbrain.coffee to the `scripts` directory of your Hubot installation. 
-2. Open hubotbrain.php and modify line 163 ( protected function dir() ) to suit your needs. If you upload everything as it's found here on GitHub you won't need to bother.
-3. You're done!
+2. Edit hubotbrain.coffee and find http://localhost/hubotbrain.php and change that to where you will be placing hubotbrain.php
+3. Open hubotbrain.php and modify line 163 ( protected function dir() ) to suit your needs. If you upload everything as it's found here on GitHub you won't need to bother.
+4. You're done!
 
 # Documentation / FAQs
 
