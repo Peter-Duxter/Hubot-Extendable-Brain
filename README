@@ -1,7 +1,15 @@
 # Hubot Extendable Brain
+# Description
 
-This is a basic PHP Class Framework that allows you to use Hubot in conjunction with PHP to better query your own server and/or other servers.
+Have you ever wanted to closely integrate your Hubot with your website? Were you worried about giving some of your developers command line access? Do you prefer PHP over CoffeeScript?
+
+If you answered "yes" to any of those questions then this library is for you. It's a PHP Class that allows you to use Hubot in conjunction with PHP to better query your own server(s) and/or other servers.
 
 # Installation
 
-Add hubotbrain.coffee to the `scripts` directory of your Hubot installation.
+1. Add hubotbrain.coffee to the `scripts` directory of your Hubot installation. 
+2. Open hubotbrain.php and modify line 163 ( protected function dir() ) to suit your needs. If you upload everything as it's found here on GitHub you won't need to bother.
+3. You're done!
+
+# Documentation / FAQs
+
